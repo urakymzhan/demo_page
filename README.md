@@ -7,5 +7,3 @@
 
 
 ![Alt main page](main_page.png)
-
-Some changes from Myke as well
