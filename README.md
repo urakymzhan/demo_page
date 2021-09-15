@@ -7,6 +7,3 @@
 
 
 ![Alt main page](main_page.png)
-
-YES
-END
